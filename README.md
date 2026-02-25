@@ -37,9 +37,8 @@ bash
 python movie_recommender.py
 
 
-
-## Author
-Riddhi Mehta
+Author
+[Riddhi Mehta]
 
 
 
