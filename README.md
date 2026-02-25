@@ -32,28 +32,16 @@ The project uses a dataset consisting of roughly **4,800 movies**. To ensure hig
 ```bash
 pip install pandas numpy scikit-learn
 
-```
-
-
 3. **Execute the recommender**:
 bash
 python movie_recommender.py
 
 
-## Project Structure
 
-```text
-├── dataset/
-│   └── movies.csv               # Raw movie metadata
-├── notebook/
-│   └── Movie_Recommendation.ipynb # Initial EDA and model testing
-├── src/
-│   └── movie_recommender.py     # Production-ready script
-└── README.md                    # Project documentation
-
-
-
-
-**Author**
+## Author
 Riddhi Mehta
+
+
+
+
 
