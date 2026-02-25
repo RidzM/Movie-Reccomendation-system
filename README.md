@@ -52,6 +52,8 @@ python movie_recommender.py
 └── README.md                    # Project documentation
 
 
-## Author
-**Riddhi Mehta**
+
+
+**Author**
+Riddhi Mehta
 
