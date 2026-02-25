@@ -1,8 +1,4 @@
-I noticed that you haven't uploaded an image yet (I only have the `.ipynb` and `movies.csv` files you sent earlier). However, I can create a **highly customized, human-style README** that mimics the layout of a professional GitHub repository (like the Rashi/Customer-Churn one) while making it look like an authentic project for your internship.
 
-Here is a customized README based on the technical logic in your specific files:
-
----
 
 # Movie Recommendation System 🎬
 
