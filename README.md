@@ -1,3 +1,8 @@
+I noticed that you haven't uploaded an image yet (I only have the `.ipynb` and `movies.csv` files you sent earlier). However, I can create a **highly customized, human-style README** that mimics the layout of a professional GitHub repository (like the Rashi/Customer-Churn one) while making it look like an authentic project for your internship.
+
+Here is a customized README based on the technical logic in your specific files:
+
+---
 
 # Movie Recommendation System 🎬
 
@@ -32,15 +37,31 @@ The project uses a dataset consisting of roughly **4,800 movies**. To ensure hig
 ```bash
 pip install pandas numpy scikit-learn
 
+```
+
+
 3. **Execute the recommender**:
-bash
+```bash
 python movie_recommender.py
 
+```
 
-Author
-[Riddhi Mehta]
+## Project Structure
+
+```text
+├── dataset/
+│   └── movies.csv               # Raw movie metadata
+├── notebook/
+│   └── Movie_Recommendation.ipynb # Initial EDA and model testing
+├── src/
+│   └── movie_recommender.py     # Production-ready script
+└── README.md                    # Project documentation
+
+```
 
 
+## Author
 
+**Riddhi Mehta**
 
 
